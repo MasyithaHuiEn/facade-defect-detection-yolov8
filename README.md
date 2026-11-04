@@ -8,8 +8,8 @@ Results: a small table with mAP50 0.655, mAP50-95 ~0.47, precision 0.651 and rec
 
 Findings: crack and hole AP (0.48) lagged far behind “normal” (0.995) despite crack having the most instances. 
 
-Link to dataset used in this project > https://www.kaggle.com/datasets/erkandevvecii/wall-crack-hole-normal-dataset/data
+Link to dataset used in this project > https://www.kaggle.com/datasets/erkandevvecii/wall-crack-hole-normal-dataset/data - no images were modified in anyway. 
 
 How to run: install ultralytics, point data.yaml at the dataset, run the notebook.
 
-Credits: My groupmates
+Credits: My groupmates, and the author of the dataset.
